@@ -1,4 +1,4 @@
-library("data.table")
+sdlibrary("data.table")
 library("reshape2")
 
 # Load activity labels
